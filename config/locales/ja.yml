@@ -253,6 +253,10 @@ ja:
       edit_profile: 'プロフィールを編集'
       team_you_belong_to: '所属しているチーム'
       posted_articles: '投稿した記事一覧'
+      leader_only_edit: 'チームリーダーしか編集できません'
+      leader_or_mine_destroy: 'チームリーダー又は自分自身しか削除できません'
+      authority_transfer: '権限を移動しました'
+      authority_transfer_complete: 'リーダー権限を移動しました、あなたがリーダーです'
       agenda_delete: 'アジェンダが削除されました'
     button:
       submit: '投稿'
@@ -260,6 +264,7 @@ ja:
       delete: '削除'
       create: '作成'
       invite: '招待'
+      transfer: '権限移動'
     top:
       line1: 'このアプリケーションは、チームごと、議題ごとに別れて'
       line2: '特定のイシュー（議題）をメンバーで見やすく共有するためのアプリケーションです'
