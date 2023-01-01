@@ -253,6 +253,8 @@ ja:
       edit_profile: 'プロフィールを編集'
       team_you_belong_to: '所属しているチーム'
       posted_articles: '投稿した記事一覧'
+      leader_only_edit: 'チームリーダーしか編集できません'
+      leader_or_mine_destroy: 'チームリーダー又は自分自身しか削除できません'
       authority_transfer: '権限を移動しました'
       authority_transfer_complete: 'リーダー権限を移動しました、あなたがリーダーです'
     button:
