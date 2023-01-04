@@ -16,7 +16,7 @@ Rails.application.routes.draw do
         resources :comments
       end
     end
-    menber do
+    member do
       post :assign_owner
     end
   end
