@@ -9,7 +9,7 @@ class AssignMailer < ApplicationMailer
 
   def assign_owner_email(email)
     @email = email
-    mail to: @email, subject: I18n.t('views.messages.authority_transfer_complete')
+    mail to: @email, subject: I18n.t( 'views.messages.authority_transfer_complete' )
   end
   
   def agenda_destroy_mail(email)
